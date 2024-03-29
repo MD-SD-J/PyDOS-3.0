@@ -1,0 +1,15 @@
+pip install colorama
+pip install tk
+pip install PyQt5
+pip install kivy
+pip install passlib
+pip install pysqlite3
+pip install PyJWT
+pip install cryptography
+pip install pyOpenSSL
+pip install psutil
+pip install sphinx
+pip install unittest
+pip install pytest
+pip install requests
+pip install pathlib
